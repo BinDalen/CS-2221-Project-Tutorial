@@ -1,0 +1,11 @@
+# The Formidable Module
+
+There is a very good module for working with file uploads, called "Formidable".
+
+The Formidable module can be downloaded and installed using NPM.
+
+> `npm install formidable`
+
+After you have downloaded the Formidable module, you can include the module in any application:
+
+> `var formidable = require('formidable');
